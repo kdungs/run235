@@ -1,3 +1,6 @@
+# Google Maps API key
+gcp.key
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
