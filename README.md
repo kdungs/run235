@@ -9,3 +9,5 @@ Experimenting with .FIT files and visualization based on files from a Garmin For
  2. Save it to `gcp.key`
  3. Execute `go run . -basedir /mnt/watch/GARMIN/ACTIVITIES/`
  4. Open <http://localhost:8080>
+
+![screenshot](screenshot.png)
